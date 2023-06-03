@@ -24,7 +24,7 @@ function App() {
     foto: "https://github.com/genesysaluralatam.png",
     nombre: "Genesys Rondón",
     puesto: "Desarrolladora de software e instructora",
-    fav: true
+    fav: false
   },
   {
     id: uuid(),
@@ -32,7 +32,7 @@ function App() {
     foto: "https://github.com/JeanmarieAluraLatam.png",
     nombre: "Jeanmarie Quijada",
     puesto: "Instructora en Alura Latam",
-    fav: true
+    fav: false
   },
   {
     id: uuid(),
